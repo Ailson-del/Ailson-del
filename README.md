@@ -15,7 +15,7 @@
 ---
 
 ## 💻 Tecnologias que estou aprendendo:
-- HTML5 | CSS3 | JavaScript
+- HTML5 | CSS3 | Tailwindcss | JavaScript
 - Projetos com Inteligência Artificial
 - Git e GitHub
 - Em breve: React e Python
