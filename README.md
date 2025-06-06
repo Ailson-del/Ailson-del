@@ -17,7 +17,7 @@ Apaixonado por tecnologia, criação de sites e aplicativos
 
 ---
 
-# 💻 Tecnologias que estou aprendendo:
+# 💻 Tecnologias que estou estudando:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
