@@ -9,7 +9,7 @@
 
  Olá 👋, meu nome é Ailson Alves!
  --
-Desenvolvedor Front-End em formação  
+Desenvolvedor Full-stack em formação  
 
 Tecnólogo em Marketing (6 meses cursados) — Unicesumar
 
