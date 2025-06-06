@@ -7,7 +7,7 @@
 
 <!-- Apresentação -->
 
- Olá 👋, meu nome é Ailson Alves!.
+ Olá 👋, meu nome é Ailson Alves!
  --
 Desenvolvedor Front-End em formação  
 
