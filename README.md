@@ -3,62 +3,51 @@
 
 💻 Desenvolvedor Front-End em formação  
 🤳 Apaixonado por tecnologia, criação de sites e aplicativos  
-🔍 Em busca de aprimorar minhas habilidades e construir projetos reais
 
 ---
 
 ## 📚 Formação
 
 - Tecnólogo em Marketing (6 meses cursados) — Unicesumar  
-- Desenvolvedor Front-End em formação
+- Desenvolvedor full-stack em formação
 
 ---
 
 ## 💻 Tecnologias que estou aprendendo:
-- HTML5 | CSS3 | Tailwindcss | JavaScript
-- Projetos com Inteligência Artificial
-- Git e GitHub
-- Em breve: React e Python
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
----
+###
 
-## 📚 Estudando com:
-- FreeCodeCamp
-- Cursos da Danki Code
-- Documentações oficiais
-- Desafios diários de projetos reais 👨🏼‍💻
-  
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ailson-del&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ailson-del&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ailson-del&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-## 📂 Projetos em destaque:
-- Em breve aqui você verá projetos completos com código aberto e hospedados online!
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph.svg">
+</picture>
 
-## 📈 Progresso de Estudos
+###
 
-- [x] Fundamentos de HTML e CSS
-- [x] Git e GitHub
-- [ ] JavaScript básico
-- [ ] Projetos com IA
-- [ ] React
 
----
-
-## 💡 Soft Skills
-
-📂 Organização é a base dos meus estudos e projetos.  
-
-![Organização](https://img.shields.io/badge/soft%20skill-organiza%C3%A7%C3%A3o-blue)
-
-![Ailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ailson-del&show_icons=true&theme=tokyonight)
-
----
-
-## 📲 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/ailson-alves-447296237/) 
-- [GitHub](https://github.com/Ailson-del)
-
----
-
-📝 *“Cada linha de código é um passo em direção ao meu futuro como dev.”*
