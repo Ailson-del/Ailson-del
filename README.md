@@ -1,15 +1,19 @@
 
-# Olá, eu sou o Ailson! 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-💻 Desenvolvedor Front-End em formação  
-🤳 Apaixonado por tecnologia, criação de sites e aplicativos  
+<!-- Presentation -->
 
----
-
-## 📚 Formação
-
-- Tecnólogo em Marketing (6 meses cursados) — Unicesumar  
-- Desenvolvedor full-stack em formação
+  Olá 👋, meu nome é Ailson Alves!.
+  #
+Desenvolvedor Front-End em formação  
+#
+Tecnólogo em Marketing (6 meses cursados) — Unicesumar
+#
+Apaixonado por tecnologia, criação de sites e aplicativos  
 
 ---
 
@@ -32,22 +36,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ailson-del&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ailson-del&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ailson-del&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ailson-del/Ailson-del/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+-----
 
