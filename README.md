@@ -13,7 +13,12 @@
 
 ###
 
-<p align="left">Sou apaixonado por tecnologia e focado em criar soluções que otimizem processos. Meu objetivo é aplicar o meu conhecimento para ajudar empresas a crescerem através de projetos sólidos e automações inteligentes.</p>
+<p align="left">Sou apaixonado por tecnologia e focado em criar soluções que otimizem processos.</p>
+
+  ## 🎯 Objetivo
+  
+<p>Construir soluções web modernas e automações inteligentes para pequenas empresas, 
+com foco em eficiência e crescimento digital.</p>
 
 ###
 
